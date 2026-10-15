@@ -7,4 +7,4 @@ This is a simple Python app to facilitate manual counting of segmentation cases.
 - The user can enter a specific image index to switch to.
 - The user can click and drag the view of the image.
 
-A few images have been included in the Select Results directory to allow a small demo.
+Currently, the Select Results directory here is empty.
